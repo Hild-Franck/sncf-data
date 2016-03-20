@@ -1,0 +1,14 @@
+{
+  "name": "sncf-web",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A server to save SNCF data",
+  "license": "MIT",
+  "devDependencies": {
+    "chart.js": "^1.0.2",
+    "socket.io-client": "^1.4.5"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
